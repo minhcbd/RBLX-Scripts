@@ -1,4 +1,5 @@
 -- Dont know how to use? Watch tut here --> https://www.youtube.com/watch?v=nggVERw_BuU
+-- loadstring(game:HttpGet(''))()
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
