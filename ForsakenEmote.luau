@@ -1,4 +1,4 @@
--- loadstring(game:HttpGet(''))()
+-- loadstring(game:HttpGet('https://raw.githubusercontent.com/minhcbd/RBLX-Scripts/refs/heads/main/ForsakenEmote.luau'))()
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
