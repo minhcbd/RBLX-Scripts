@@ -1,5 +1,5 @@
 -- Dont know how to use? Watch tut here --> https://www.youtube.com/watch?v=nggVERw_BuU
--- loadstring(game:HttpGet(''))()
+-- loadstring(game:HttpGet('https://raw.githubusercontent.com/minhcbd/RBLX-Scripts/refs/heads/main/PizzaGameBeta.luau'))()
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
